@@ -58,7 +58,15 @@ The domain was not claimed on the third-party service, allowing me to:
 
 ## 📸 Proof of Concept
 
-![Takeover Proof](images/takeover-proof.png)
+![vuln_3(1)](https://github.com/user-attachments/assets/5550549b-2658-4caa-9564-16ecb234f0d6)
+--
+![vuln_2(1)](https://github.com/user-attachments/assets/af8c1030-f75d-4ec7-bf77-2fd1f26d9eee)
+--
+![vuln_1(1)](https://github.com/user-attachments/assets/c225eafb-ef7a-465d-8165-674548538bd3)
+--
+
+--
+<img width="432" height="790" alt="image" src="https://github.com/user-attachments/assets/d2453864-7bb0-429c-83a0-535651444d6e" />
 
 ---
 
